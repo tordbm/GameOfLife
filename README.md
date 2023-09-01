@@ -3,7 +3,7 @@ This is a game of life implementation done in Haskell as part of an individual p
 
 ## How to run
 
-After having GHCi installed one can run `stack runhaskell "Oblig.hs"` to run the script.
+After having GHCi installed one can run `stack runhaskell "Oblig2.hs"` to run the script.
 
 From there, the game can be played based on the rules of a file by providing "r *filename*". It also has a way of defining rules as you go, but I can´t remember how...
 
